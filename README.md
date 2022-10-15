@@ -1,6 +1,6 @@
 # My Task At Machine Learning Course
 
-# Instalattion
+# Instalation
 To use this project, first clone the repo on your device using the command below:
 
 ```git clone https://github.com/Muhthoriqas/Exam_Machine_Learning_Course.git```
