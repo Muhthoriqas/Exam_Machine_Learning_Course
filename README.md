@@ -3,7 +3,7 @@
 # Instalation
 To use this project, first clone the repo on your device using the command below:
 
-```git clone https://github.com/Muhthoriqas/Exam_Machine_Learning_Course.git```
+```git clone https://github.com/Muhthoriqas/Task_Machine_Learning.git```
 
 # Development
 Then try to run some files from this repostory at ```Jupyter Notebook, Google Collab, Or VSCode```
